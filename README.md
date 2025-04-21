@@ -27,11 +27,6 @@ A Streamlit-based secure data storage and retrieval web app that uses advanced e
 - **State Management:** Streamlit's session state
 - **Language:** Python 3.9+
 
-## 📷 Screenshots
-
-| Home Page | Store Data | Retrieve Data | Login Page |
-|-----------|------------|----------------|-------------|
-| ![Home](screenshots/home.png) | ![Store](screenshots/store.png) | ![Retrieve](screenshots/retrieve.png) | ![Login](screenshots/login.png) |
 
 ## 🛠️ How it Works
 
